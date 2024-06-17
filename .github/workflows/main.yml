@@ -8,7 +8,7 @@ on:
 
 env:
 #  DOCKER_USERNAME: 
-  DOCKER_CONTAINER_NAME: adwg
+  DOCKER_CONTAINER_NAME: adwireguard
   DOCKER_TARGET_PLATFORM: linux/amd64
 
 jobs:
